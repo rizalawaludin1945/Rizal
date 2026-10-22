@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara SFA - Sales Force Automation & Distribusi",
+  "description": "Aplikasi Sales Force Automation (SFA) Android & iOS untuk distribusi salesman dengan pelacakan GPS real-time, manajemen pesanan offline-first, sinkronisasi otomatis, ekspor Excel 3D Maps & Google Spreadsheet dengan geotagging outlet, dan dashboard analitik komprehensif.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
